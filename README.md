@@ -23,7 +23,7 @@ These projects demonstrate my ability to explore datasets, identify patterns, an
 A job market visualization project exploring job posting data. The dashboard organizes employment-related information into visual insights that help users examine patterns across the available job listings.
 
 **Key Focus Areas**
-- Exploration of job posting data.
+- Exploration of job posting data for data roles.
 - Comparison of available job categories.
 - Visualization of employment-related patterns.
 - Presentation of job market information.
@@ -143,7 +143,7 @@ An interactive dashboard focused on visualizing and monitoring the Ministry of Y
 
 #### 2. Healthcare Analysis
 
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Helthcare%20Analysis)
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Helthcare%20Analysis/Screenshot 2026-10-17 193141.png)
 
 **Technology:** Microsoft Power BI
 
