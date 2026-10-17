@@ -37,7 +37,6 @@ Job posting analytics can support labor market research, recruitment planning, a
 **Skills Demonstrated:** Tableau, data visualization, employment analytics, and exploratory analysis.
 
 ---
-
 #### 2. Coffeeshop Sales Analysis
 
 [**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Coffeeshop%20Sales)
@@ -48,11 +47,13 @@ Job posting analytics can support labor market research, recruitment planning, a
 
 **Overview**
 
-A sales visualization project focused on coffee shop business data. The dashboard presents sales information to support the exploration of transaction patterns and business performance.
+A sales visualization project focused on coffee shop business data. The dashboard presents sales information to explore transaction patterns and understand business performance.
+
+![Coffeeshop Sales Analysis Dashboard](./Coffeeshop%20Sales/Coffeeshop%20Sales%20analysis.png)
 
 **Key Focus Areas**
 - Sales performance visualization.
-- Exploration of sales patterns.
+- Exploration of sales patterns and transaction trends.
 - Comparison of available sales categories.
 - Visual reporting to support business analysis.
 
@@ -61,7 +62,6 @@ A sales visualization project focused on coffee shop business data. The dashboar
 Sales dashboards can help businesses monitor performance, investigate sales trends, and identify areas for further analysis.
 
 **Skills Demonstrated:** Tableau, sales analytics, business intelligence, and data visualization.
-
 ---
 
 #### 3. Customer Churn Analysis
