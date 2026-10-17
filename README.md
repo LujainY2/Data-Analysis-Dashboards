@@ -12,8 +12,9 @@ These projects demonstrate my ability to explore datasets, identify patterns, an
 
 #### 3. COVID-19 Vaccination Analysis
 
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/COVID-19%20vaccinat/COVID-19 vaccinated around the wold..png)
+![COVID-19 Vaccination Analysis](./COVID-19%20vaccinat/COVID-19%20vaccinated%20around%20the%20wold..png)
 
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/COVID-19%20vaccinat)
 **Technology:** Tableau
 
 **Category:** Public Health Analytics
