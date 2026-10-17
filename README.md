@@ -10,7 +10,33 @@ These projects demonstrate my ability to explore datasets, identify patterns, an
 
 ### Tableau Projects
 
-#### 3. COVID-19 Vaccination Analysis
+#### 4. Job Posting Analysis
+
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Job%20posting)
+
+**Technology:** Tableau
+
+**Category:** Employment Analytics & Job Market Insights
+
+**Overview**
+
+A job market visualization project exploring job posting data. The dashboard organizes employment-related information into visual insights that help users examine patterns across the available job listings.
+
+**Key Focus Areas**
+- Exploration of job posting data.
+- Comparison of available job categories.
+- Visualization of employment-related patterns.
+- Presentation of job market information.
+
+**Business Application**
+
+Job posting analytics can support labor market research, recruitment planning, and investigations into employment demand.
+
+**Skills Demonstrated:** Tableau, data visualization, employment analytics, and exploratory analysis.
+
+
+
+#### 1. COVID-19 Vaccination Analysis
 
 ![COVID-19 Vaccination Analysis](./COVID-19%20vaccinat/COVID-19%20vaccinated%20around%20the%20wold..png)
 
@@ -30,10 +56,35 @@ A data visualization project exploring COVID-19 vaccination data across countrie
 - Visual communication of public health data.
 
 **Skills Demonstrated:** Tableau, data visualization, comparative analysis, and public health analytics.
+---
+#### 2. Coffeeshop Sales Analysis
 
+
+![COVID-19 Vaccination Analysis](./COVID-19%20vaccinat/COVID-19%20vaccinated%20around%20the%20wold..png)
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Coffeeshop%20Sales)
+
+**Technology:** Tableau
+
+**Category:** Sales Analytics & Business Performance
+
+**Overview**
+
+A sales visualization project focused on coffee shop business data. The dashboard presents sales information to support the exploration of transaction patterns and business performance.
+
+**Key Focus Areas**
+- Sales performance visualization.
+- Exploration of sales patterns.
+- Comparison of available sales categories.
+- Visual reporting to support business analysis.
+
+**Business Application**
+
+Sales dashboards can help businesses monitor performance, investigate sales trends, and identify areas for further analysis.
+
+**Skills Demonstrated:** Tableau, sales analytics, business intelligence, and data visualization.
 ---
 
-#### 4. Customer Churn Analysis
+#### 3. Customer Churn Analysis
 
 [**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Churn%20Analysis)
 
@@ -57,57 +108,9 @@ Customer churn analytics can help organizations understand retention challenges 
 
 **Skills Demonstrated:** Tableau, customer analytics, exploratory analysis, and business intelligence.
 
----
 
-#### 5. Coffeeshop Sales Analysis
-
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Coffeeshop%20Sales)
-
-**Technology:** Tableau
-
-**Category:** Sales Analytics & Business Performance
-
-**Overview**
-
-A sales visualization project focused on coffee shop business data. The dashboard presents sales information to support the exploration of transaction patterns and business performance.
-
-**Key Focus Areas**
-- Sales performance visualization.
-- Exploration of sales patterns.
-- Comparison of available sales categories.
-- Visual reporting to support business analysis.
-
-**Business Application**
-
-Sales dashboards can help businesses monitor performance, investigate sales trends, and identify areas for further analysis.
-
-**Skills Demonstrated:** Tableau, sales analytics, business intelligence, and data visualization.
 
 ---
-
-#### 6. Job Posting Analysis
-
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Job%20posting)
-
-**Technology:** Tableau
-
-**Category:** Employment Analytics & Job Market Insights
-
-**Overview**
-
-A job market visualization project exploring job posting data. The dashboard organizes employment-related information into visual insights that help users examine patterns across the available job listings.
-
-**Key Focus Areas**
-- Exploration of job posting data.
-- Comparison of available job categories.
-- Visualization of employment-related patterns.
-- Presentation of job market information.
-
-**Business Application**
-
-Job posting analytics can support labor market research, recruitment planning, and investigations into employment demand.
-
-**Skills Demonstrated:** Tableau, data visualization, employment analytics, and exploratory analysis.
 
 ---
 
