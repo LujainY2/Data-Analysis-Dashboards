@@ -2,17 +2,17 @@
 
 ## Overview
 
-Welcome to my Data Analytics and Visualization portfolio. This repository showcases projects developed using **Microsoft Power BI, Tableau, Python, and Jupyter Notebook**, covering business intelligence, strategic performance monitoring, healthcare analytics, customer behavior, sales performance, and statistical analysis.
+Welcome to my Data Analytics and Visualization portfolio. This repository showcases projects developed using **Microsoft Power BI, Tableau, Python, and Jupyter Notebook**, covering business intelligence, strategic performance monitoring, healthcare analytics, customer behavior, sales performance, employment trends, and statistical analysis.
 
-These projects demonstrate my ability to explore datasets, identify patterns, analyze business and public-sector data, and communicate findings through interactive dashboards, visualizations, and analytical notebooks.
+These projects demonstrate practical applications of data analysis, dashboard development, exploratory data analysis, statistical techniques, and data visualization to transform datasets into meaningful insights.
 
 ## Projects
 
 ### Tableau Projects
 
-#### 4. Job Posting Analysis
+#### 1. Job Posting Analysis
 
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Job%20posting/Job posting.png)
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Job%20posting)
 
 **Technology:** Tableau
 
@@ -20,10 +20,10 @@ These projects demonstrate my ability to explore datasets, identify patterns, an
 
 **Overview**
 
-A job market visualization project exploring job posting data. The dashboard organizes employment-related information into visual insights that help users examine patterns across the available job listings.
+A job market visualization project exploring job posting data, with a focus on data-related roles. The dashboard presents employment information through visualizations to help explore patterns across available job listings.
 
 **Key Focus Areas**
-- Exploration of job posting data for data roles.
+- Exploration of job postings for data-related roles.
 - Comparison of available job categories.
 - Visualization of employment-related patterns.
 - Presentation of job market information.
@@ -34,33 +34,10 @@ Job posting analytics can support labor market research, recruitment planning, a
 
 **Skills Demonstrated:** Tableau, data visualization, employment analytics, and exploratory analysis.
 
-
-
-#### 1. COVID-19 Vaccination Analysis
-
-![COVID-19 Vaccination Analysis](./COVID-19%20vaccinat/COVID-19%20vaccinated%20around%20the%20wold..png)
-
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/COVID-19%20vaccinat)
-**Technology:** Tableau
-
-**Category:** Public Health Analytics
-
-**Overview**
-
-A data visualization project exploring COVID-19 vaccination data across countries. The dashboard presents vaccination-related information in a visual format to facilitate comparisons and explore differences in vaccination progress.
-
-**Key Focus Areas**
-- Global vaccination data visualization.
-- Comparisons across countries and geographical areas.
-- Exploration of vaccination trends.
-- Visual communication of public health data.
-
-**Skills Demonstrated:** Tableau, data visualization, comparative analysis, and public health analytics.
 ---
+
 #### 2. Coffeeshop Sales Analysis
 
-
-![COVID-19 Vaccination Analysis](./COVID-19%20vaccinat/COVID-19%20vaccinated%20around%20the%20wold..png)
 [**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Coffeeshop%20Sales)
 
 **Technology:** Tableau
@@ -82,6 +59,7 @@ A sales visualization project focused on coffee shop business data. The dashboar
 Sales dashboards can help businesses monitor performance, investigate sales trends, and identify areas for further analysis.
 
 **Skills Demonstrated:** Tableau, sales analytics, business intelligence, and data visualization.
+
 ---
 
 #### 3. Customer Churn Analysis
@@ -104,22 +82,39 @@ A customer analytics project exploring customer churn and retention patterns thr
 
 **Business Application**
 
-Customer churn analytics can help organizations understand retention challenges and identify areas that may require further investigation.
+Customer churn analytics can help organizations understand retention challenges and identify areas for further investigation.
 
 **Skills Demonstrated:** Tableau, customer analytics, exploratory analysis, and business intelligence.
 
+---
 
+#### 4. COVID-19 Vaccination Analysis
+
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/COVID-19%20vaccinat)
+
+**Technology:** Tableau
+
+**Category:** Public Health Analytics
+
+**Overview**
+
+A data visualization project exploring COVID-19 vaccination data across countries. The dashboard presents vaccination-related information in a visual format to facilitate comparisons and explore differences in vaccination progress.
+
+![COVID-19 Vaccination Analysis](./COVID-19%20vaccinat/COVID-19%20vaccinated%20around%20the%20wold..png)
+
+**Key Focus Areas**
+- Global vaccination data visualization.
+- Comparisons across countries and geographical areas.
+- Exploration of vaccination trends.
+- Visual communication of public health data.
+
+**Skills Demonstrated:** Tableau, data visualization, comparative analysis, and public health analytics.
 
 ---
 
----
-
-
-
----
 ### Power BI Projects
 
-#### 1. Ministry of Youth Strategic Plan Dashboard
+#### 5. Ministry of Youth Strategic Plan Dashboard
 
 [**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/.%20Ministry%20of%20Youth%20Strategic%20Plan)
 
@@ -141,9 +136,9 @@ An interactive dashboard focused on visualizing and monitoring the Ministry of Y
 
 ---
 
-#### 2. Healthcare Analysis
+#### 6. Healthcare Analysis
 
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Helthcare%20Analysis/Screenshot 2026-10-17 193141.png)
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Helthcare%20Analysis)
 
 **Technology:** Microsoft Power BI
 
@@ -228,8 +223,9 @@ The project demonstrates how Python can be used to explore historical datasets, 
 | Business Analytics | Customer churn, sales performance, job market analysis |
 | Performance Analytics | KPI reporting, strategic monitoring |
 | Reporting | Dashboards, visual storytelling, analytical reporting |
+---
 
-Each project folder contains its associated project files, such as dashboard images, Power BI resources, or Jupyter notebooks, depending on the project.
+Each project folder contains its associated files, such as dashboard screenshots, Power BI resources, or Jupyter notebooks.
 
 ## Portfolio Highlights
 
@@ -241,10 +237,10 @@ Each project folder contains its associated project files, such as dashboard ima
 
 ## About Me
 
-I am a Data Science graduate specializing in data analytics, business intelligence, and data-driven problem-solving. This portfolio brings together projects that demonstrate my practical experience in analyzing data, building visualizations, and communicating insights across different domains.
+I am a Data Science graduate interested in data analytics, business intelligence, and data-driven problem-solving. This portfolio brings together projects demonstrating my practical skills in analyzing data, building visualizations, and communicating insights across different domains.
 
 **Author:** Lujain Yousef
 
-**DataCamp Portfolio:** [View Portfolio](https://www.datacamp.com/portfolio/ylujain)
+**DataCamp Portfolio:** [View My Portfolio](https://www.datacamp.com/portfolio/ylujain)
 
 **GitHub:** [LujainY2](https://github.com/LujainY2)
