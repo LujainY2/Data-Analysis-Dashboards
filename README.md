@@ -22,6 +22,8 @@ These projects demonstrate practical applications of data analysis, dashboard de
 
 A job market visualization project exploring job posting data, with a focus on data-related roles. The dashboard presents employment information through visualizations to help explore patterns across available job listings.
 
+![Job Posting Analysis Dashboard](./Job%20posting/Job%20posting.png)
+
 **Key Focus Areas**
 - Exploration of job postings for data-related roles.
 - Comparison of available job categories.
