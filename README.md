@@ -1,319 +1,243 @@
-# Data Analytics & Business Intelligence Portfolio
+# Data Analytics & Visualization Portfolio
 
 ## Overview
 
-This repository showcases a collection of data analytics, business intelligence, statistical analysis, and data visualization projects developed using **Microsoft Power BI, Tableau, Python, SQL, and Jupyter Notebook**.
+Welcome to my Data Analytics and Visualization portfolio. This repository showcases projects developed using **Microsoft Power BI, Tableau, Python, and Jupyter Notebook**, covering business intelligence, strategic performance monitoring, healthcare analytics, customer behavior, sales performance, and statistical analysis.
 
-The projects explore real-world datasets across multiple domains, including strategic planning, healthcare, public health, customer behavior, sales performance, demographics, and employment trends.
+These projects demonstrate my ability to explore datasets, identify patterns, analyze business and public-sector data, and communicate findings through interactive dashboards, visualizations, and analytical notebooks.
 
-The main objective is to transform raw data into meaningful insights through data preparation, exploratory analysis, statistical techniques, interactive dashboards, and visual storytelling.
+## Projects
 
-## Project Portfolio
+### Tableau Projects
 
-### 1. Ministry of Youth Strategic Plan Dashboard
+#### 3. COVID-19 Vaccination Analysis
 
-**Category:** Strategic Performance Monitoring & Business Intelligence  
-**Tools:** Microsoft Power BI, Excel, DAX, Data Modeling
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/COVID-19%20vaccinat)
 
-#### Overview
+**Technology:** Tableau
 
-An interactive business intelligence dashboard designed to present and monitor strategic planning indicators for the Ministry of Youth. The dashboard provides a structured view of strategic objectives and performance indicators to support progress monitoring and informed decision-making.
+**Category:** Public Health Analytics
 
-![Ministry of Youth Strategic Plan Dashboard](images/ministry-youth-dashboard.png)
+**Overview**
 
-#### Objectives
-- Present strategic performance indicators in an accessible format.
-- Monitor progress toward strategic goals and targets.
-- Organize performance information for easier interpretation.
-- Support data-driven evaluation of strategic initiatives.
+A data visualization project exploring COVID-19 vaccination data across countries. The dashboard presents vaccination-related information in a visual format to facilitate comparisons and explore differences in vaccination progress.
 
-#### Analytical Features
-- KPI cards and performance summaries.
-- Interactive filters and slicers.
-- Performance comparisons across available categories.
-- Data modeling and calculated measures using DAX.
+**Key Focus Areas**
+- Global vaccination data visualization.
+- Comparisons across countries and geographical areas.
+- Exploration of vaccination trends.
+- Visual communication of public health data.
 
-#### Skills Demonstrated
-Power BI development, data modeling, dashboard design, KPI reporting, and strategic performance analytics.
+**Skills Demonstrated:** Tableau, data visualization, comparative analysis, and public health analytics.
 
 ---
 
-### 2. Age Brackets & Groups Analysis
+#### 4. Customer Churn Analysis
 
-**Category:** Demographic Analytics & Data Visualization  
-**Tools:** Data Visualization, Exploratory Data Analysis
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Churn%20Analysis)
 
-#### Overview
+**Technology:** Tableau
 
-A demographic visualization project exploring the distribution of individuals across age brackets and demographic groups. The analysis organizes age-related data into interpretable categories to make population patterns easier to understand.
+**Category:** Customer Analytics & Business Intelligence
 
-![Age Brackets and Groups Analysis](Age%20Brackets%20%26%20Groups.png)
+**Overview**
 
-#### Objectives
-- Examine the distribution of observations across age groups.
-- Compare demographic categories.
-- Identify patterns in the available population data.
-- Communicate demographic information through visualizations.
+A customer analytics project exploring customer churn and retention patterns through visualizations. The dashboard supports the investigation of customer behavior and potential factors associated with churn.
 
-#### Analytical Focus
-- Age-group distribution.
-- Comparisons between demographic categories.
-- Visual presentation of population characteristics.
+**Key Focus Areas**
+- Customer churn and retention analysis.
+- Exploration of customer segments.
+- Comparison of available customer attributes.
+- Visualization of patterns relevant to customer retention.
 
-#### Skills Demonstrated
-Demographic analysis, categorical data interpretation, exploratory analysis, and data visualization.
+**Business Application**
 
----
+Customer churn analytics can help organizations understand retention challenges and identify areas that may require further investigation.
 
-### 3. Global COVID-19 Vaccination Analysis
-
-**Category:** Public Health Analytics  
-**Tools:** Data Analysis, Data Visualization
-
-#### Overview
-
-A data visualization project examining COVID-19 vaccination information across countries. The project explores global vaccination patterns and presents public health data in a visual format that supports comparisons between geographical areas.
-
-![Global COVID-19 Vaccination Analysis](COVID-19%20vaccinated%20around%20the%20world...png)
-
-#### Objectives
-- Explore vaccination patterns across countries.
-- Compare vaccination indicators between geographical areas.
-- Present public health data in an accessible format.
-- Improve understanding of differences in global vaccination progress.
-
-#### Analytical Focus
-- Cross-country comparisons.
-- Geographic differences in vaccination indicators.
-- Identification of broad patterns in the available data.
-
-#### Skills Demonstrated
-Public health data analysis, comparative analytics, data interpretation, and visual storytelling.
+**Skills Demonstrated:** Tableau, customer analytics, exploratory analysis, and business intelligence.
 
 ---
 
-### 4. Customer Churn Analysis
+#### 5. Coffeeshop Sales Analysis
 
-**Category:** Customer Analytics & Business Intelligence  
-**Tools:** Tableau / Power BI, Data Analytics
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Coffeeshop%20Sales)
 
-#### Overview
+**Technology:** Tableau
 
-A customer analytics project focused on exploring churn-related patterns and understanding customer retention. The visualizations present customer information in a business-oriented format to help investigate factors associated with customer loss.
+**Category:** Sales Analytics & Business Performance
 
-![Customer Churn Analysis](Churn%20Analysis.png)
+**Overview**
 
-#### Objectives
-- Explore customer churn patterns.
-- Examine differences between customer segments.
-- Identify potential relationships between customer characteristics and churn.
-- Support customer retention analysis through visual reporting.
+A sales visualization project focused on coffee shop business data. The dashboard presents sales information to support the exploration of transaction patterns and business performance.
 
-#### Analytical Focus
-- Churn and retention indicators.
-- Customer segmentation.
-- Comparisons across available customer attributes.
-- Visual exploration of potential churn patterns.
+**Key Focus Areas**
+- Sales performance visualization.
+- Exploration of sales patterns.
+- Comparison of available sales categories.
+- Visual reporting to support business analysis.
 
-#### Business Value
+**Business Application**
 
-Customer churn analysis can help organizations understand retention challenges, investigate customer behavior, and identify areas for further analysis.
+Sales dashboards can help businesses monitor performance, investigate sales trends, and identify areas for further analysis.
 
-#### Skills Demonstrated
-Customer analytics, business intelligence, segmentation, exploratory analysis, and dashboard development.
+**Skills Demonstrated:** Tableau, sales analytics, business intelligence, and data visualization.
 
 ---
 
-### 5. Healthcare Data Analysis
+#### 6. Job Posting Analysis
 
-**Category:** Healthcare Analytics & Reporting  
-**Tools:** Python, Data Analysis, Data Visualization
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Job%20posting)
 
-#### Overview
+**Technology:** Tableau
 
-A healthcare analytics project documented in a PDF report. The project demonstrates the application of data analysis techniques to healthcare-related information, with an emphasis on exploring patterns and communicating findings.
+**Category:** Employment Analytics & Job Market Insights
 
-[**View Healthcare Analysis Report (PDF)**](Healthcare%20Analysis.pdf)
+**Overview**
 
-#### Objectives
-- Explore healthcare-related data.
-- Identify relevant trends and patterns in the dataset.
-- Organize analytical findings into a structured report.
-- Communicate results through data-driven explanations.
+A job market visualization project exploring job posting data. The dashboard organizes employment-related information into visual insights that help users examine patterns across the available job listings.
 
-#### Analytical Approach
-- Data exploration and interpretation.
-- Examination of relevant variables.
-- Summarization of findings.
-- Analytical reporting and visualization, where applicable.
+**Key Focus Areas**
+- Exploration of job posting data.
+- Comparison of available job categories.
+- Visualization of employment-related patterns.
+- Presentation of job market information.
 
-#### Skills Demonstrated
-Healthcare analytics, analytical reporting, data interpretation, and communicating findings.
-
----
-
-### 6. Handwashing and Deaths Analysis
-
-**Category:** Public Health & Historical Data Analysis  
-**Tools:** Python, Jupyter Notebook, Data Visualization
-
-#### Overview
-
-An exploratory data analysis project investigating the relationship between handwashing practices and mortality trends using historical public health data.
-
-The project explores how data analysis can be used to examine public health questions, compare observations, and investigate associations between variables.
-
-#### Objectives
-- Explore historical public health data.
-- Examine changes in mortality-related measurements.
-- Investigate the association between handwashing practices and mortality.
-- Present analytical observations using data visualization.
-
-#### Analytical Approach
-- Data loading and exploration in Jupyter Notebook.
-- Examination of variables and trends.
-- Comparative analysis of available observations.
-- Visualization of patterns to support interpretation.
-
-#### Skills Demonstrated
-Python, Jupyter Notebook, exploratory data analysis, historical data analysis, and public health analytics.
-
----
-
-### 7. Job Posting Analysis
-
-**Category:** Employment Analytics & Labor Market Insights  
-**Tools:** Data Analytics, Data Visualization
-
-#### Overview
-
-A job market visualization project exploring job posting information to understand patterns in available employment opportunities.
-
-The project demonstrates how job-related data can be organized and visualized to support the exploration of employment trends and differences between job categories.
-
-![Job Posting Analysis](Job%20posting.png)
-
-#### Objectives
-- Explore job posting information.
-- Examine patterns across available job categories.
-- Compare job-related attributes represented in the dataset.
-- Present employment information through visualizations.
-
-#### Analytical Focus
-- Distribution of job postings.
-- Comparisons between available categories.
-- Exploration of patterns in the available job market data.
-
-#### Potential Applications
+**Business Application**
 
 Job posting analytics can support labor market research, recruitment planning, and investigations into employment demand.
 
-#### Skills Demonstrated
-Employment analytics, categorical analysis, data visualization, and analytical communication.
+**Skills Demonstrated:** Tableau, data visualization, employment analytics, and exploratory analysis.
 
 ---
 
-### 8. Coffee Shop Sales Analysis
 
-**Category:** Sales Analytics & Business Performance  
-**Tools:** Data Analytics, Business Intelligence, Data Visualization
 
-#### Overview
+---
+### Power BI Projects
 
-A business analytics project examining coffee shop sales data to explore sales performance and identify patterns in business transactions.
+#### 1. Ministry of Youth Strategic Plan Dashboard
 
-The project uses visual analysis to make sales information easier to interpret and support a better understanding of business performance.
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/.%20Ministry%20of%20Youth%20Strategic%20Plan)
 
-![Coffee Shop Sales Analysis](coffeeshop%20Sales%20analyses.png)
+**Technology:** Microsoft Power BI
 
-#### Objectives
-- Examine sales performance using the available data.
-- Explore transaction patterns and sales distributions.
-- Compare relevant sales categories.
-- Present business performance information through visualizations.
+**Category:** Strategic Planning & Performance Monitoring
 
-#### Analytical Focus
-- Sales trends and transaction patterns.
-- Comparisons between available product or sales categories.
-- Exploration of differences in sales performance.
-- Visual summaries of business data.
+**Overview**
 
-#### Business Value
+An interactive dashboard focused on visualizing and monitoring the Ministry of Youth's strategic plan. It presents strategic indicators and performance information to support progress tracking and data-driven decision-making.
 
-Sales analytics can help businesses evaluate performance, understand transaction patterns, and identify areas for further operational investigation.
+**Key Features**
+- Strategic performance monitoring.
+- KPI visualization and progress tracking.
+- Interactive data exploration.
+- Visual reporting of strategic objectives and indicators.
 
-#### Skills Demonstrated
-Sales analytics, business intelligence, performance reporting, and data visualization.
+**Skills Demonstrated:** Power BI, dashboard development, data visualization, and performance analytics.
 
 ---
 
-### 9. A/B Testing Analysis
+#### 2. Healthcare Analysis
 
-**Category:** Statistical Analysis & Experimentation  
-**Tools:** Python, Jupyter Notebook, Statistical Analysis
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Helthcare%20Analysis)
 
-#### Overview
+**Technology:** Microsoft Power BI
 
-A statistical analysis project applying A/B testing concepts to compare alternatives using experimental data.
+**Category:** Healthcare Analytics
 
-A/B testing is commonly used to evaluate whether observed differences between two groups provide evidence that one alternative performs differently from another.
+**Overview**
 
-#### Objectives
-- Explore experimental data.
-- Compare outcomes between two alternatives.
-- Apply statistical reasoning to evaluate differences.
-- Support evidence-based conclusions.
+A healthcare data analysis project using Power BI to present healthcare-related information through visualizations and reports. The project demonstrates how business intelligence tools can help organize data and communicate analytical findings.
 
-#### Analytical Approach
+**Key Focus Areas**
+- Healthcare data exploration.
+- Visual representation of healthcare indicators.
+- Identification of patterns in the available data.
+- Analytical reporting to support interpretation.
+
+**Skills Demonstrated:** Power BI, data visualization, healthcare analytics, and report development.
+
+---
+
+### Python & Jupyter Notebook Projects
+
+#### 7. A/B Testing Data Analysis
+
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/AB-Testing%20Data%20Analysis)
+
+**Technology:** Python, Jupyter Notebook
+
+**Category:** Statistical Analysis & Experimentation
+
+**Overview**
+
+A statistical analysis project applying A/B testing techniques to compare alternatives using experimental data. The notebook demonstrates an analytical workflow for exploring experiment results and evaluating differences between groups.
+
+**Key Focus Areas**
 - Data inspection and preparation.
-- Exploratory analysis of experiment results.
-- Comparison of group-level outcomes.
+- Exploratory data analysis.
+- Comparison of experimental groups.
 - Statistical testing and interpretation, as implemented in the notebook.
 
-#### Applications
+**Applications**
 
-A/B testing is widely used in website optimization, product development, marketing campaigns, and user experience evaluation.
+A/B testing is widely used in product development, marketing, website optimization, and user experience research to evaluate alternatives using data.
 
-#### Skills Demonstrated
-Python, Jupyter Notebook, statistical analysis, experimental evaluation, and data-driven decision-making.
+**Skills Demonstrated:** Python, Jupyter Notebook, statistical analysis, experimental evaluation, and data-driven decision-making.
+
+---
+
+#### 8. Handwashing and Deaths Analysis
+
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Handwashing%20and%20deaths%20)
+
+**Technology:** Python, Jupyter Notebook
+
+**Category:** Public Health & Exploratory Data Analysis
+
+**Overview**
+
+An exploratory data analysis project investigating the relationship between handwashing practices and mortality trends using historical public health data.
+
+The project demonstrates how Python can be used to explore historical datasets, compare observations, and investigate relationships between variables.
+
+**Key Focus Areas**
+- Data loading and exploration.
+- Analysis of historical public health data.
+- Examination of patterns in handwashing practices and mortality.
+- Data visualization and interpretation.
+
+**Skills Demonstrated:** Python, Jupyter Notebook, exploratory data analysis, data visualization, and public health analytics.
 
 ---
 
 ## Technical Skills
 
-| Area | Technologies & Skills |
+| Category | Tools & Skills |
 |---|---|
-| Business Intelligence | Microsoft Power BI, Tableau |
-| Programming | Python, Jupyter Notebook |
+| Business Intelligence | Microsoft Power BI |
+| Data Visualization | Tableau, Power BI |
+| Programming | Python |
+| Analytical Environment | Jupyter Notebook |
 | Data Analysis | Data cleaning, exploratory data analysis, trend analysis |
 | Statistical Analysis | A/B testing, statistical comparisons |
-| Data Visualization | Interactive dashboards, charts, KPI reporting |
-| Business Analytics | Sales performance, customer churn, employment analytics |
-| Reporting | Analytical reports, visual storytelling, insight communication |
+| Business Analytics | Customer churn, sales performance, job market analysis |
+| Performance Analytics | KPI reporting, strategic monitoring |
+| Reporting | Dashboards, visual storytelling, analytical reporting |
 
-## Repository Structure
+Each project folder contains its associated project files, such as dashboard images, Power BI resources, or Jupyter notebooks, depending on the project.
 
-The repository contains a combination of dashboard screenshots, analytical notebooks, reports, and project files.
+## Portfolio Highlights
 
-- **Dashboard images:** Visual previews of analytical projects.
-- **Jupyter notebooks:** Interactive Python analysis and statistical workflows.
-- **PDF reports:** Documented analytical work.
-- **Power BI files:** Business intelligence dashboards and associated project resources.
-- **README.md:** Project descriptions and portfolio documentation.
+- **Business Intelligence:** Developing dashboards to present performance indicators and support decision-making.
+- **Data Visualization:** Using Power BI and Tableau to communicate patterns and trends.
+- **Statistical Analysis:** Applying analytical and statistical methods to experimental data.
+- **Exploratory Data Analysis:** Investigating datasets across business and public health domains.
+- **Business & Public-Sector Applications:** Exploring strategic performance, customer retention, sales, employment, and healthcare data.
 
-## How to Explore the Projects
+## About Me
 
-1. Review the dashboard images to see the visualizations.
-2. Open the Jupyter notebooks to explore the code and analytical workflow.
-3. Open the healthcare PDF to review the documented analysis.
-4. Download and extract the Power BI archive, then open the `.pbix` file in Power BI Desktop.
-5. Review each project's objectives, analytical approach, and demonstrated skills.
-
-Some projects may require their original datasets or data-source connections to reproduce the results.
-
-## About This Portfolio
-
-This portfolio demonstrates practical applications of data analytics and visualization across business, public-sector, and public-health domains. It highlights the process of exploring data, communicating findings, and developing visual tools to support informed decisions.
+I am a Data Science graduate specializing in data analytics, business intelligence, and data-driven problem-solving. This portfolio brings together projects that demonstrate my practical experience in analyzing data, building visualizations, and communicating insights across different domains.
 
 **Author:** Lujain Yousef
 
