@@ -12,7 +12,7 @@ These projects demonstrate my ability to explore datasets, identify patterns, an
 
 #### 4. Job Posting Analysis
 
-[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Job%20posting)
+[**View Project Folder →**](https://github.com/LujainY2/Data-Analysis/tree/main/Job%20posting/Job posting.png)
 
 **Technology:** Tableau
 
